@@ -1,4 +1,4 @@
 #!/bin/bash
 
-#add
+#addition
 a=b+c
